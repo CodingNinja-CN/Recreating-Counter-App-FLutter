@@ -1,16 +1,3 @@
-# my_counter_app
+This counter app was created as part of my Flutter learning journey. I followed [Asif Taj's Flutter Bootcamp on YouTube](https://youtu.be/ULg_aBP9TBI?si=5ElL-o35UH2r1ePc) to build a solid foundation in Flutter, and this counter app was one of the practical tasks from that series.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/322949fd-1cf1-4eb3-a5b2-4d5b37412669" alt="Counter App" width="300"/>
